@@ -1863,7 +1863,7 @@ GameObject:
   - component: {fileID: 670568751}
   - component: {fileID: 670568750}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: MissionText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2432,6 +2432,7 @@ MonoBehaviour:
   timerText: {fileID: 1014134064}
   failWindowUI: {fileID: 545850231}
   missionIntroUI: {fileID: 565189319}
+  successWindowUI: {fileID: 0}
 --- !u!114 &1014134064
 MonoBehaviour:
   m_ObjectHideFlags: 0
